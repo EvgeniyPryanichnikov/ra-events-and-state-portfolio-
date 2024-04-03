@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/54de1a9ch3f05sms?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-events-and-state-portfolio)
+
 Портфолио с фильтрами
 ===
 
